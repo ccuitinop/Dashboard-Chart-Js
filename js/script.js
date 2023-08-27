@@ -75,6 +75,6 @@ function formatDateToYearMonth(diaMes) {
     return new Date(diaMes).toISOString().slice(0, 10); 
     }
 
-    Chart.defaults.color = 'rgba(255, 255, 235, 0.5)';
+    Chart.defaults.color = 'rgba(255, 255, 235, 1)';
     Chart.defaults.font.size = 12;
     Chart.defaults.borderColor = 'rgba(255, 255, 235, 0.025)';
