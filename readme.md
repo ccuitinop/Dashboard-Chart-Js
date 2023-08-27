@@ -1,0 +1,1 @@
+Proyecto Dashboard con Chart Js muestra datos de divisas (euro) el cual se va actualizando a diario medante api mindicador.cl
